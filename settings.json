@@ -5,8 +5,8 @@
     "type": "mojang"
   },
   "server": {
-    "ip": "OsComandosSecundario.aternos.me",
-    "port": 24535,
+    "ip": "TrueServer20.aternos.me",
+    "port": 17895,
     "version": "1.12.1"
   },
   "position": {
