@@ -1,41 +1,48 @@
 {
   "bot-account": {
-    "username": "Herobrine",
+    "username": "AFKBot",
     "password": "",
     "type": "mojang"
   },
+
   "server": {
-    "ip": "TrueServer20.aternos.me",
-    "port": 17895,
+    "ip": "TrueSurvivalsBR.aternos.me",
+    "port": 60946,
     "version": "1.12.1"
   },
+
   "position": {
     "enabled": false,
     "x": 0,
     "y": 0,
     "z": 0
   },
+
   "utils": {
     "auto-auth": {
       "enabled": false,
       "password": ""
     },
+
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
+
     "chat-messages": {
       "enabled": true,
       "repeat": true,
       "repeat-delay": 60,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe To Slobos!",
         "I Like to Play Minecraft!"
       ]
     },
+
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 5000
+    "auto-recconect-delay": 5000
   }
 }
+
